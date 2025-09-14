@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Arial', sans-serif;
-  background-image:url(/IMAGENS/iara.jpg);
+  background-image:url(iara.jpg);
 }
 
 .navbar {
@@ -154,4 +154,5 @@ footer {
 footer p {
   font-size: 1rem;
 }
+
 
